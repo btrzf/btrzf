@@ -5,11 +5,10 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=btrzf&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=01C231&text_color=ffffff&bg_color=C70039" alt="Beatriz Fernanda github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHRambo&layout=compact&hide_border=true&title_color=ffffff&text_color=f6f5f4&bg_color=C70039" />
 </div>
-
+  <hr style="border: 0.2px solid white;">
 <div>
-  <br>
   <b style="font-size: 30px; font-weight: bold;">Contact me!</b>
-  <hr>
+  <hr style="border: 0.2px solid white;">
 </div>
 <div>
   <a href="https://www.linkedin.com/in/beatriz-fernanda-07656a196" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
