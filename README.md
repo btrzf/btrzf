@@ -1,6 +1,6 @@
 👋 Olá, Mundo!
 
-🌟 Sou um entusiasta da tecnologia apaixonado por programação e desenvolvimento web. Sempre em busca de novos desafios e oportunidades para aprender e crescer.
+🌟 Sou uma entusiasta da tecnologia apaixonado por programação e desenvolvimento web. Sempre em busca de novos desafios e oportunidades para aprender e crescer.
 
 💻 Tenho experiência em diversas linguagens de programação, incluindo JavaScript e Java, e estou constantemente aprimorando minhas habilidades.
 
