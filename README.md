@@ -6,7 +6,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHRambo&layout=compact&hide_border=true&title_color=ffffff&text_color=f6f5f4&bg_color=C70039" />
 </div>
 <div>
-  <hr style="border: 0.2px solid #FFC0CB;">
+  <hr style="border: 0.1px solid #FFC0CB;">
   <b style="font-size: 80px; font-weight: bold; font-family: Arial;">Contact me!</b>
   <hr style="border: 0.2px solid #FFC0CB;">
 </div>
